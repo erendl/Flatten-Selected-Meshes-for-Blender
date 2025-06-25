@@ -14,6 +14,7 @@ A simple Blender add-on that flattens imported GLB hierarchies by joining select
 1. Download `flatten_selected_meshes.zip`
 2. In Blender, go to `Edit > Preferences > Add-ons > Install`
 4. Press `N` in the 3D Viewport and go to the **Flatten** tab
+!!! Rigged models may not work properly !!!
 
 ## Usage
 
